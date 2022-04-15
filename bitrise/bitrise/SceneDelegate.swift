@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Test
+//  bitrise
 //
 //  Created by Nikolay Scherbakov on 15.04.2022.
 //
